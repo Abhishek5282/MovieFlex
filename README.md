@@ -1,21 +1,19 @@
 
-# Microsoft Engage 2022
-
-This project is being developed for Microsoft Engage 2022 mentorship program. In this project I have used Machine Learning algorithms and various other algorithms to implement movie recommendation system .
+ In this project, I have used Machine Learning algorithms and various other algorithms to implement a movie recommendation system.
 
 
 ## Tech Stack
 
 **Client:** React, Redux, Material UI
 
-**Server:** Node, Express , Passport JS , Flask , JupyterNotebook
+**Server:** Node, Express, Passport JS, Flask , JupyterNotebook
 
 
 ## Features
 
 - Recommend Movies
 - Detail View Of Every Movie
-- Detail View Of Every Cast Of Movie
+- Detail View Of Every Cast Of the Movie
 - More Popular Movie Of Particular Cast
 - Latest And Upcoming Movies List With Rating
 - Google Authentication
@@ -23,7 +21,7 @@ This project is being developed for Microsoft Engage 2022 mentorship program. In
 
 
 ## API Credit
-All the images and data used in project is taken from 
+All the images and data used in the project are taken from 
 https://developers.themoviedb.org/3/getting-started/introduction
 ## Demo
 
@@ -32,11 +30,6 @@ Video Demo Here
 https://youtu.be/JMEGCJxRwDo
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/AnuragRoshan/RecomSystem.git
-```
 
 Install Python Libraries
 
@@ -50,30 +43,30 @@ move into RecomSystem folder
 cd RecomSystem
 ```
 
-move into server and install node dependencies for server side
+Move into the server and install node dependencies for server-side
 ```bash
 cd server
 npm i
 ```
 
-install react dependencies in client folder
+install react dependencies in the client folder
 
 ```bash
 cd ..
 cd client
 npm i
 ```
-run python file in one shell
+Run Python files in one shell
 ```bash
 cd ..
 cd server
 python main.py
 ```
-run node backend in other shell
+Run node backends in other shells
 ```bash
 npm start
 ```
-run react frontend in third shell
+Run react frontend in the third shell
  ```bash
 cd ..
 cd client
@@ -81,7 +74,7 @@ npm start
 ```
 ## Authors
 
-- [@AnuragRoshan](https://github.com/AnuragRoshan)
+- [@AbhishekRaj](https://github.com/Abhishek5282)
 
 
 ## Feedback
