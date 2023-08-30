@@ -79,7 +79,7 @@ npm start
 
 ## Feedback
 
-If you have any feedback, please reach out to us at anuragraushan373@gmail.com
+If you have any feedback, please reach out to us at abhishekrajdbas0@gmail.com
 
 ## Landing Page
 ![mvrs6](https://user-images.githubusercontent.com/68966298/178826347-b572b3e7-d903-4b08-ac6b-0a5009143ade.JPG)
